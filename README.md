@@ -1,0 +1,44 @@
+# Every Little Thing – Time goes by"Orchestra Version"
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.99] Wow wow wow...
+[00:22.67] Kitto kitto dareka ga
+[00:28.79] Nanika tarinai mono wo
+[00:34.44] Muri ni kitai shisugite hito wo kizu tsukete iru
+[00:46.90] Wow wow wow...
+[00:57.61] Aeba kenka shiteta ne
+[01:03.29] Nagaku isugita no ka na
+[01:09.01] Iji wo hareba naosara
+[01:14.92] Sukima hirogaru bakari
+[01:20.30] Kiss wo shitari dakiattari
+[01:26.53] Tabun sore de yokatta
+[01:32.05] Atari mae no ai shikata mo
+[01:38.40] Zutto wasurete ita ne
+[01:43.62] Shinjiaeru yorokobi mo kizu tsuke au kanashimi mo
+[01:55.22] Itsuka ari no mama ni
+[01:59.05] Ai seru yo ni time goes by
+[02:12.05] 
+[02:14.22] Tsugou warui toki ni wa itsumo iiwake shiteta
+[02:29.97] Sou ne sonna tokoro wa
+[02:35.50] Futari yoku nite ita ne
+[02:40.89] Yasuragi toka shinjitsu toka
+[02:47.15] Itsumo motometeta kedo
+[02:52.58] Kotoba no you ni kantan ni wa
+[02:58.79] Umaku tsutaerarezu ni
+[03:04.05] Mou ichido omoidashite
+[03:10.34] Anna ni mo ai shita koto
+[03:15.74] Arigatou ga ieru toki ga kuru made
+[03:22.34] Say good bye
+[03:27.34] Nokosareta kizu ato ga kieta shunkan
+[03:33.18] Hontou no yasashisa no imi ga
+[03:37.44] Wakaru yo kitto
+[03:44.94] 
+[04:06.11] Sugita hi ni se wo mukezu ni
+[04:13.37] Yukkuri toki wo kanjite
+[04:18.42] Itsuka mata waratte
+[04:22.52] Aeru to ii ne
+[04:25.55] Time goes by
+[04:31.56] Wow wow wow...
+```
