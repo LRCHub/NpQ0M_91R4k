@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Time goes by\"Orchestra Version\"",
+  "base_artist": "Every Little Thing",
+  "createdAt": "2026-03-31T05:38:09.820252Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time Goes By (Orchestra Version)",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/01_Time_Goes_By_(Orchestra_Version)_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time goes by ≪Orchestra Version≫",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/02_Time_goes_by_≪Orchestra_Version≫_Every_Little_Thing.lrc"
+    }
+  ]
+}
